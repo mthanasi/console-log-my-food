@@ -21,8 +21,8 @@
 
 ## Packages Used:
 
-* Readline &#8594 Setup input / output environment
-* JSON Server &#8594 Setup a full fake REST API
+* Readline 🠆 Setup input / output environment
+* JSON Server 🠆 Setup a full fake REST API
 
    ```bash
    Install Dependecies:	npm install
@@ -34,4 +34,4 @@
 
    ```
 
-* AXIOS &#8594 Promise based HTTP client.
+* AXIOS 🠆 Promise based HTTP client.

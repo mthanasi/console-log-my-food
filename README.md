@@ -35,3 +35,6 @@
    ```
 
 * AXIOS 🠆 Promise based HTTP client.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)

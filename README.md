@@ -21,17 +21,17 @@
 
 ## Packages Used:
 
-Readline -> Setup input / output environment
-JSON Server -> Setup a full fake REST API
+* Readline &#8594 Setup input / output environment
+* JSON Server &#8594 Setup a full fake REST API
 
-```bash
-Install Dependecies:	npm install
+   ```bash
+   Install Dependecies:	npm install
 
-Install :  sudo npm i -g json-server
+   Install :  sudo npm i -g json-server
 
-RUN     :  json-server --watch ./db.json --port 3001
-OR      :  npm run server
+   RUN     :  json-server --watch ./db.json --port 3001
+   OR      :  npm run server
 
-```
+   ```
 
-AXIOS -> Promise based HTTP client.
+* AXIOS &#8594 Promise based HTTP client.

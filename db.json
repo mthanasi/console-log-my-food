@@ -112,9 +112,9 @@
   "users": [
     {
       "id": 1,
-      "firstname": "Majorka",
-      "lastname": "Thanasi",
-      "email": "mth@mail.com",
+      "firstname": "Anna",
+      "lastname": "Cole",
+      "email": "acole@mail.com",
       "log": [
         {
           "1572791640182": {
@@ -156,6 +156,13 @@
             "food": "lentils",
             "servingSize": "10",
             "calories": 2300
+          }
+        },
+        {
+          "1653514710446": {
+            "food": "apple",
+            "servingSize": "20",
+            "calories": 1760
           }
         }
       ]

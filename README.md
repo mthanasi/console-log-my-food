@@ -1,40 +1,29 @@
 # CONSOLE-LOG-MY-FOOD
 
-> DEMO Application serving as practice for Javascript ES6 iterators, iterables objs and generators.
+Small cmd line application serving as practice for Javascript ES6 iterators, iterables objs and generators.
 
-## Functionality
+### Features
 
-1. The app is run from the command line.
-2. The user is asked what they ate, and how much. 
-3. Calories of the meal are calculated and displayed.
+* List food choices specific to dietary preferences - terminal commands implemented through "event listeners".
+* Log Food of different portions - using JS iterators/generators.
+* List logged food for a specific day - using yield delegation/composing generator functions.
 
-## Features of the App
+### Packages Used
 
-1. List Food Specific to Dietary Preferences
-   - Terminal Commands implemented through "event listeners"
-2. Log Food of different portions
-   - Implemented using Iterators / Generators
-3. List logged food for a specific day
-   - Implemented using YIELD Delegation / "Composing generator functions"
-
-> Database set up using JSON Server.
-
-## Packages Used:
-
-* Readline 🠆 Setup input / output environment
-* JSON Server 🠆 Setup a full fake REST API
+* Readline - setup input/output environment.
+* JSON Server - setup a full fake REST API.
+* AXIOS - promise based HTTP client.
 
    ```bash
-   Install Dependecies:	npm install
+   Install Dependecies: npm install
 
    Install :  sudo npm i -g json-server
 
-   RUN     :  json-server --watch ./db.json --port 3001
-   OR      :  npm run server
+   RUN     :  json-server --watch ./db.json --port 3001 or   npm run server
+   AND     :  npm start
 
    ```
 
-* AXIOS 🠆 Promise based HTTP client.
+### License
 
-## License
 [MIT](https://choosealicense.com/licenses/mit/)
